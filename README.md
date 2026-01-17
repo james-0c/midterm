@@ -1,0 +1,1 @@
+Convolutional Neural Network for the classification of NASA's HiRISE Mars images, completed during my masters machine learning course for a midterm project. Any questions about this work, reach out @ james.cole02@hotmail.co.uk.
